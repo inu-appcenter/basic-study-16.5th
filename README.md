@@ -53,15 +53,16 @@
             ## 📚 레퍼런스
             
             ```
-          <br><br>
+    <br><br>
       
 - `branch 규칙`
-    - 각자의 영어 이름을 딴 branch 명을 사용한다.
+    - 작업하려는 종류와 이슈번호를 이용하여 브랜치명을 작성합니다.
     - 예시:
     ```
   git checkout -b <브랜치명>      
-  git checkout -b wonjeong
+  git checkout -b feat/#3
     ```
+  <br><br>
 
 - `commit message 규칙`
     - 참고: [https://doublesprogramming.tistory.com/256](https://doublesprogramming.tistory.com/256)
@@ -69,7 +70,8 @@
     - 예시
         - feat: todo-list 회원 API 엔티티 구현 - #2
         - fix: todo-list 회원 단건 조회 서비스 에러 수정 - #2
-          <br><br>
+    
+    <br><br>
       
 - `PR 규칙`
     - PR 템플릿
