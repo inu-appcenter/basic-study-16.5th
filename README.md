@@ -3,10 +3,9 @@
 
 ## 👩🏻‍💻 운영진
 
-|한현승|
+|**한현승**|
 |:-:|
-|<a href="https://github.com/82everywin"><img src="https://avatars.githubusercontent.com/u/109841880?v=4" width="120"></a>|    
-|[@82everywin](https://github.com/82evrywin)|
+| <a href="https://github.com/82everywin"><img src="https://avatars.githubusercontent.com/u/109841880?v=4" width="120"></a> |    
 ---
 
 ## 👫 파트원
@@ -15,7 +14,6 @@
 |나현지|박다인|성민준|정석환|
 |:-:|:-:|:-:|:-:|
 | <a href="https://github.com/82everywin"><img src="https://avatars.githubusercontent.com/u/109841880?v=4" width="120"></a> |<a href="https://github.com/82everywin"><img src="https://avatars.githubusercontent.com/u/109841880?v=4" width="120"></a>| <a href="https://github.com/milin3t"><img src="https://avatars.githubusercontent.com/u/103179228?v=4" width="120"></a> |<a href="https://github.com/82everywin"><img src="https://avatars.githubusercontent.com/u/109841880?v=4" width="120"></a>|
-|[@82everywin](https://github.com/82evrywin)|[@82everywin](https://github.com/82evrywin)|[@milin3t](https://github.com/milin3t)|[@82everywin](https://github.com/82evrywin)|
 ---
 
 
