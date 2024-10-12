@@ -9,11 +9,10 @@
 ---
 
 ## 👫 파트원
-<p> ※ 업데이트 중입니다  ※  </p>
 
 |나현지|박다인|성민준|정석환|
 |:-:|:-:|:-:|:-:|
-| <a href="https://github.com/82everywin"><img src="https://avatars.githubusercontent.com/u/109841880?v=4" width="120"></a> |<a href="https://github.com/82everywin"><img src="https://avatars.githubusercontent.com/u/109841880?v=4" width="120"></a>| <a href="https://github.com/milin3t"><img src="https://avatars.githubusercontent.com/u/103179228?v=4" width="120"></a> |<a href="https://github.com/82everywin"><img src="https://avatars.githubusercontent.com/u/109841880?v=4" width="120"></a>|
+| <a href="https://github.com/hxxneei"><img src="https://avatars.githubusercontent.com/u/183292376?v=4" width="120"></a> |<a href="https://github.com/pdain"><img src="https://avatars.githubusercontent.com/u/180918895?v=4" width="120"></a>| <a href="https://github.com/milin3t"><img src="https://avatars.githubusercontent.com/u/103179228?v=4" width="120"></a> |<a href="https://github.com/Jungseokhwan"><img src="https://avatars.githubusercontent.com/u/155729481?v=4" width="120"></a>|
 ---
 
 
