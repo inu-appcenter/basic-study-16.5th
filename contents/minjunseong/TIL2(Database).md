@@ -109,7 +109,7 @@ quit                            -- 귀여운 인사와 함께 로그아웃이된
 show databases;                 -- 데이터베이스 목록이 표시된다.
 CREATE DATABASE minjunseong;    -- 데이터베이스를 생성한다. 
 USE minjunseong;                -- minjunseong이라는 데이터베이스를 이용한다.
-
+show tables;                    -- USE된 DATABASE에 있는 Table들을 보여준다.
 
 -- ERD 생성 실습 
 
@@ -143,8 +143,10 @@ CREATE TABLE Course_Student (
     student_id INT,                  -- 학생 ID (FK)
     course_id INT,                   -- 강의 ID (FK)
     PRIMARY KEY (student_id, course_id), -- 복합 기본 키
-    FOREIGN KEY (student_id) REFERENCES Student(student_id) ON DELETE CASCADE,
-    FOREIGN KEY (course_id) REFERENCES Course(course_id) ON DELETE CASCADE
+    FOREIGN KEY (student_id) REFERENCES Student(student_id) ON DELETE CASCADE,      
+    FOREIGN KEY (course_id) REFERENCES Course(course_id) ON DELETE CASCADE         
+    -- Reference를 쓰는 이유 -> 중간 테이블이 다른 테이블을 참조하기 위해 사용된다 (데이터 무결성을 위함. (중간에 변조되는 일이 없도록!!))
+    -- CASCADE를 쓰는 이유 -> 데이터를 수정하거나 삭제할 때 Orphan DATA를 막기 위해 + 데이터 무결성을 위함. 예를 들어 상위 학생 데이터가 갑자기 하나 날라간다면, 사라진 학생에 대한 Course_student의 데이터도 당연히 날라가야한다.
 );
 
 
@@ -152,7 +154,9 @@ CREATE TABLE Course_Student (
 INSERT INTO Student (student_id, name, age, grade) VALUES
 (2101, 'minjun', 24, '3학년'),
 (2102, 'yunho', 23, '2학년'),
-(2103, 'sunwoo', 27, '4학년');
+(2103, 'sunwoo', 27, '4학년'),
+(1901, 'jinkyu', 27, '4학년'),
+(2001, 'minjung', 26, '4학년');
 
 -- 2. 강의 데이터 삽입
 INSERT INTO Course (course_id, course_name, mark) VALUES
