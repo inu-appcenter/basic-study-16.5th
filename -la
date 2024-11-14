@@ -1,0 +1,282 @@
+[33mcommit fda41095ecbfb9313730be1652c1022c37271fe1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdocs/#43[m[33m, [m[1;31morigin/docs/#43[m[33m, [m[1;31morigin/Docs_API_JSON_과제_제출_#41[m[33m, [m[1;32mDocs_API_JSON_과제_제출_#41[m[33m)[m
+Author: hxxneei <zxcvb5120@naver.com>
+Date:   Tue Nov 5 23:00:18 2024 +0900
+
+    5주차과제제출
+
+[33mcommit db076fdfce39865f67146e5903a5688104d31bd7[m[33m ([m[1;31morigin/week2-Database[m[33m, [m[1;32mweek2-Database[m[33m, [m[1;32mDosc/#41[m[33m)[m
+Author: hxxneei <zxcvb5120@naver.com>
+Date:   Wed Oct 30 11:34:18 2024 +0900
+
+    데이터베이스-정리
+
+[33mcommit 2f353a63301d9e14ab420b01350d0d696950d327[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/29-docs-week2-database[m[33m, [m[1;32m29-docs-week2-database[m[33m)[m
+Merge: e0bacfc 4f00d94
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Sat Oct 12 20:05:31 2024 +0900
+
+    Merge pull request #27 from inu-appcenter/docs-1주차-내용-정리/#26
+    
+    1주차 과제
+
+[33mcommit 4f00d94634827e75619638d924333a7fd2a41088[m[33m ([m[1;31morigin/docs-1주차-내용-정리/#26[m[33m, [m[1;32mdocs-1주차-내용-정리/#26[m[33m)[m
+Author: hxxneei <zxcvb5120@naver.com>
+Date:   Sat Oct 12 19:24:05 2024 +0900
+
+    파일 이동
+
+[33mcommit e0bacfc09ea231a13c4dc755ad21880cd8ccf632[m
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Sat Oct 12 17:29:58 2024 +0900
+
+    feat: README.md 파트원 업데이트
+
+[33mcommit b0f165c3a9faffdaa66ff34f50fdf1f3c9708f75[m
+Author: hxxneei <zxcvb5120@naver.com>
+Date:   Fri Oct 11 12:59:26 2024 +0900
+
+    1주차 과제
+
+[33mcommit d9bf8276bfe69f97d6deccd1230b4c5c4d366ca6[m
+Merge: 52055de 1585b84
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Tue Oct 8 14:18:58 2024 +0900
+
+    Merge pull request #25 from inu-appcenter/docs/#24
+    
+    Docs : AppCenter Works 1
+
+[33mcommit 52055de54fe60d14465bb78b8ed9db68a47c7221[m
+Merge: ca3b284 56947fa
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Tue Oct 8 14:15:15 2024 +0900
+
+    Merge pull request #22 from inu-appcenter/docs/#21
+    
+    test
+
+[33mcommit ca3b28465c03e36359dd31344eed2b81361945fd[m
+Merge: 2869b18 a1c2a0e
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Tue Oct 8 14:14:40 2024 +0900
+
+    Merge pull request #23 from inu-appcenter/20-docs-데스크탑-현지
+    
+    1주차
+
+[33mcommit 1585b84eff3ba18f157fd0acd9befed8f0418457[m
+Author: minjunseong <minjunseong@naver.com>
+Date:   Tue Oct 8 14:09:56 2024 +0900
+
+    Docs : TIL Upload
+
+[33mcommit 3989349e4faa89d43bd15b80737cb672938362cc[m
+Author: minjunseong <minjunseong@naver.com>
+Date:   Tue Oct 8 14:00:32 2024 +0900
+
+    AppCenter Works 1
+
+[33mcommit a1c2a0e984b06bbfd471b161dd2cb452f6244200[m
+Author: hxxneei <zxcvb5120@naver.com>
+Date:   Mon Oct 7 21:08:10 2024 +0900
+
+    1주차
+
+[33mcommit 56947fa221701d18f462a39438f1584d6f23c870[m
+Author: 박다인 <dainp1122@gmail.com>
+Date:   Mon Oct 7 21:08:08 2024 +0900
+
+    test
+
+[33mcommit 2869b18646e36e957cb6365253c78151a52ad4fa[m
+Merge: 623778a ac8644d
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Mon Oct 7 20:53:19 2024 +0900
+
+    Merge pull request #19 from inu-appcenter/docs/#17
+    
+    충돌!
+
+[33mcommit ac8644debc29d66ff1499a1b6c3c6a57b5bae74b[m
+Merge: 58acc43 623778a
+Author: Jungseokhwan <155729481+Jungseokhwan@users.noreply.github.com>
+Date:   Mon Oct 7 20:52:52 2024 +0900
+
+    Merge branch 'main' into docs/#17
+
+[33mcommit 623778a080c0622ffe2d322463747f841efc4981[m
+Merge: 157b0d4 d689a2f
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Mon Oct 7 20:50:58 2024 +0900
+
+    Merge pull request #18 from inu-appcenter/issue/#16
+    
+    충돌 예견
+
+[33mcommit 58acc439cb0ba57e5a17b445cf42d2f8ab4b82c0[m
+Author: Jungseokhwan <jsh2910@naver.com>
+Date:   Mon Oct 7 20:49:12 2024 +0900
+
+    충돌!
+
+[33mcommit d689a2f87d43d52f4f54381c2da5c9a23d705cfa[m
+Author: 82everywin <82everywin@gmail.com>
+Date:   Mon Oct 7 20:49:07 2024 +0900
+
+    충돌 예견
+
+[33mcommit 157b0d44dfe6ad7705af313af609f5384ee4e50b[m
+Merge: b14def7 56bae3f
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Mon Oct 7 20:43:23 2024 +0900
+
+    Merge pull request #15 from inu-appcenter/doc/#11
+    
+    [Docs] 1주차 정리본
+
+[33mcommit b14def799260f2affb145d47317ffb195ec15903[m
+Merge: 7941d29 e75887b
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Mon Oct 7 20:42:52 2024 +0900
+
+    Merge pull request #14 from inu-appcenter/doce/#9
+    
+    1주차
+
+[33mcommit 7941d297cb3bfcd2a73bb0714f385302c389efb3[m
+Merge: 8d47a65 b0a1b49
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Mon Oct 7 20:42:18 2024 +0900
+
+    Merge pull request #13 from inu-appcenter/docs/#10
+    
+    [Docs] 1주차 정리본
+
+[33mcommit 8d47a6574a72545606fc69a5e709ab30d8e91bd8[m
+Merge: 84f0363 8d36262
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Mon Oct 7 20:41:57 2024 +0900
+
+    Merge pull request #12 from inu-appcenter/doce/#8
+    
+    [Docs] 1주차 정리본
+
+[33mcommit e75887b8ef0558d2daf60db63f31412f6941c10e[m[33m ([m[1;31morigin/doce/#9[m[33m)[m
+Author: hxxneei <zxcvb5120@naver.com>
+Date:   Mon Oct 7 20:39:13 2024 +0900
+
+    1주차
+
+[33mcommit b0a1b496c430d764705ed1bb7540123a5afcded0[m
+Author: Jungseokhwan <jsh2910@naver.com>
+Date:   Mon Oct 7 20:32:15 2024 +0900
+
+    [Docs] 1주차 정리본
+
+[33mcommit 56bae3fb7d0c772d2f62e46e11ab63700d89709d[m
+Author: pdain <dainp1122@gmail.com>
+Date:   Mon Oct 7 20:29:54 2024 +0900
+
+    [Docs] 1주차 정리본
+
+[33mcommit 8d3626240499559801aeb029a78d39a50b5d850d[m
+Author: 82everywin <82everywin@gmail.com>
+Date:   Mon Oct 7 20:26:59 2024 +0900
+
+    [Docs] 1주차 정리본
+
+[33mcommit 84f03632f68d7c8ca8e1b7b21c7e12a26b4677f3[m[33m ([m[1;31morigin/docs/#11[m[33m, [m[1;32mmain[m[33m)[m
+Author: 82everywin <82everywin@gmail.com>
+Date:   Mon Oct 7 17:09:38 2024 +0900
+
+    refactor: readme.md 업데이트
+
+[33mcommit 930aa70de184c76cf26174cdb43cefcbd39f1bf6[m
+Author: 82everywin <82everywin@gmail.com>
+Date:   Mon Oct 7 17:05:54 2024 +0900
+
+    chore: 파일 삭제
+
+[33mcommit f865b293b6ba5d6eb2a51ad4067a20cf83b9e23f[m
+Merge: 74a117c a365c14
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Sat Oct 5 03:29:42 2024 +0900
+
+    Merge pull request #7 from inu-appcenter/Docs/#6
+    
+    docs: Git 폴더 생성
+
+[33mcommit a365c14d546bbd26787875722e260be56baf5551[m
+Author: 82everywin <82everywin@gmail.com>
+Date:   Sat Oct 5 03:19:02 2024 +0900
+
+    docs: git_github 폴더 추가
+
+[33mcommit 0c90541de5b5809bba0b7ae54b48eb7b355d0f69[m
+Author: 82everywin <82everywin@gmail.com>
+Date:   Sat Oct 5 03:05:50 2024 +0900
+
+    docs: 새폴더 추가
+
+[33mcommit 74a117cb622e0ee7b2d7e2a3d4a72aee1acbec93[m
+Merge: ccdf10a 125bdbe
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Sat Oct 5 02:50:44 2024 +0900
+
+    Merge pull request #5 from inu-appcenter/docs/#4
+    
+    docs: README.md 수정
+
+[33mcommit 125bdbe6aad3aafd85090428760cc184e405c968[m
+Author: 82everywin <82everywin@gmail.com>
+Date:   Sat Oct 5 02:49:39 2024 +0900
+
+    docs: README.md 수정
+
+[33mcommit ccdf10a52f6eded5b8b67a24ac514e53179a51db[m
+Merge: 47a1e2f a11b39d
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Sat Oct 5 02:18:20 2024 +0900
+
+    Merge pull request #3 from inu-appcenter/Docs/#2
+    
+    merge: PR 템플릿 생성
+
+[33mcommit a11b39d2986d087197a04ec8905520170ae51b2e[m
+Author: 82everywin <82everywin@gmail.com>
+Date:   Sat Oct 5 02:06:56 2024 +0900
+
+    docs: PR 템플릿 생성
+
+[33mcommit 47a1e2fb9c62a9322cdf25ab00c683512141a2a6[m
+Merge: 6d0e9cd fd49019
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Sat Oct 5 01:41:31 2024 +0900
+
+    Merge pull request #1 from inu-appcenter/docs/none
+    
+    docs: Issue 템플릿 생성
+
+[33mcommit fd490198c76c494f0b18f398f04c79cb2584f803[m
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Sat Oct 5 01:41:07 2024 +0900
+
+    docs: Issue 템플릿 생성
+
+[33mcommit 6d0e9cd537e897244a94d2df1e4e8f1fb54c5fcb[m
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Sat Oct 5 01:31:12 2024 +0900
+
+    [Docs] 이슈 템플릿 생성
+
+[33mcommit d3822fd0beb2608c3c0398f1edf8541e8f55aa06[m
+Author: 82everywin <82everywin@gmail.com>
+Date:   Sat Oct 5 01:23:00 2024 +0900
+
+    docs: README.md 업데이트
+
+[33mcommit 86a83a4953a0b1c24b871bd863934a5a2affa6b3[m
+Author: 82everywin <109841880+82everywin@users.noreply.github.com>
+Date:   Fri Oct 4 23:53:14 2024 +0900
+
+    Initial commit
