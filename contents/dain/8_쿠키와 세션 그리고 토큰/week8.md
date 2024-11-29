@@ -1,19 +1,5 @@
 # week8
 
-- 참고 사이트
-    
-    https://hudi.blog/cookie-and-session/
-    
-    https://velog.io/@yonghyeun/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%BF%A0%ED%82%A4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C
-    
-    https://andamiro25.tistory.com/189
-    
-    https://choimungu.tistory.com/206
-    
-    https://puleugo.tistory.com/121
-    
-    https://velog.io/@djaxornwkd12/%EC%84%B8%EC%85%98-%EA%B8%B0%EB%B0%98-%EC%9D%B8%EC%A6%9D-%EB%B0%A9%EC%8B%9D-vs-%ED%86%A0%ED%81%B0-%EA%B8%B0%EB%B0%98-%EC%9D%B8%EC%A6%9D
-    
 
 ### 배경
 
